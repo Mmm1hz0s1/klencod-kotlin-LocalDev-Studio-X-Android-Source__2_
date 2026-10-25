@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalDev Studio X</string>
+    <string name="notification_channel_name">LocalDev Server Stack</string>
+    <string name="notification_channel_desc">Foreground service status for HTTP, PHP, and SQLite development stack</string>
+</resources>
